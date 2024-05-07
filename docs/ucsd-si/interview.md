@@ -1,8 +1,8 @@
-# Math 20B Supplemental Instruction Week 2
+# (Interview) Math 20B Supplemental Instruction Week 2
 
 Welcome to Week 2 of Math 20B SI sessions! Today we'll be covering solids of revolution.
 
-This webpage will always be available to you, so if you come in late or have to leave early, or we don't get through all the practice problems, you can access them 
+This webpage will always be available to you, so if you come in late or have to leave early, or we don't get through all the practice problems, you can access them here at any time.
 
 You can submit anonymous questions to me any time during the SI session using the link [here](https://forms.gle/DP6pPRdmFoGrqPk88). Or, feel free to unmute yourself and ask questions or type them in the chat at any time!
 
