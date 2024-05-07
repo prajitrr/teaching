@@ -1,7 +1,5 @@
 #Appearance
 title: null
-theme: jekyll-theme-dinky
-
 # Where things are
 source              : .
 destination         : ./_site
