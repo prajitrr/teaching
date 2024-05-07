@@ -9,9 +9,9 @@ You can submit anonymous questions to me any time during the SI session using th
 ## Mini-Review: Integration
 
 ## Mini-Review: Solids of Revolution
-A solid of revolution is any 3-dimensional solid created by revolving a 2-dimensional plane figure about a line in the plane. Let's visualize one, specifically $f(x)=x^2$!
+A solid of revolution is any 3-dimensional solid created by revolving a 2-dimensional plane figure about a line in the plane. Let's visualize one, specifically f(x)=x<sup>2<\sup>!
 
-<iframe src="https://www.geogebra.org/classic/v5c6n7rs" style="width: 900px; height: 750px; border: 0px"></iframe>
+<iframe src="https://www.geogebra.org/classic/v5c6n7rs" style="width: 900px; height: 600px; border: 0px"></iframe>
 
 [Here](https://www.geogebra.org/classic/v5c6n7rs) is a link to the visual in case the embedded version doesn't work. You can drag the slider of the angle and pan the camera to visualize the full graph.
 
@@ -19,11 +19,12 @@ We're interested in finding the volume of a solid of revolution. The general for
 
 $V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
 
-$f(x)$ is the function that determines how the radius of the solid we're looking at changes as we move along its height. What formula does this volume formula remind you of?
+f(x) is the function that determines how the radius of the solid we're looking at changes as we move along its height. What formula does this volume formula remind you of?
 
 This method of finding the volume is called the disk method, because we're basically adding up a bunch of disks that make up the volume of the entire solid.
 
 So, we just plug in the function, the bounds, and we can evaluate the volume.
+
 $V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
 $V = \int_{-2}^{2}\pi\left[x^2\right]^2\mathrm{d}x$
 $V = \pi\int_{-2}^{2}x^4\mathrm{d}x$
@@ -31,26 +32,17 @@ $V = \frac{x^5}{5}\left.\right|^2_{-2}$
 $V = \frac{2^5}{5} - \frac{(-2)^5}{5}$
 $V = \frac{64}{5}$
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
 ## Example
 ![example](../images/ucsd-si/interview/example.png)
+
+<details>
+<summary><b>Solution</b></summary>
+
 Let's visualize the solid created first.
+
+<iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
+</details>
+
 
 ## Problem 1
 ![example](../images/ucsd-si/interview/problem1.png)
