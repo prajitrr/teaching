@@ -37,6 +37,7 @@ Let's visualize the solid created first.
 
 <iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
 <br>
+<br>
 Now, we can plug in the equation into the formula and evaluate.
 <br>
 <img src="../images/ucsd-si/interview/solution1.png" alt="solution1">
@@ -46,3 +47,17 @@ Now, we can plug in the equation into the formula and evaluate.
 
 ## Problem 2
 ![example](../images/ucsd-si/interview/problem2.png)
+
+<details>
+<summary><b>Solution</b></summary>
+
+Let's visualize the problem.
+
+<iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
+<br>
+<br>
+We can derive an equation to use after careful thought and evaluate 
+<br>
+<img src="../images/ucsd-si/interview/solution2.png" alt="solution1">
+
+</details>
