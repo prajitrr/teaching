@@ -36,10 +36,10 @@ So, we just plug in the function, the bounds, and we can evaluate the volume.
 Let's visualize the solid created first.
 
 <iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
-
+<br>
 Now, we can plug in the equation into the formula and evaluate.
-
-![solution1](../images/ucsd-si/interview/solution1.png)
+<br>
+<img src="../images/ucsd-si/interview/solution1.png" alt="solution1">
 
 </details>
 
