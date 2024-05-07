@@ -17,7 +17,7 @@ A solid of revolution is any 3-dimensional solid created by revolving a 2-dimens
 
 We're interested in finding the volume of a solid of revolution. The general formula for this volume is listed below.  
 
-$V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
+![example](../images/ucsd-si/interview/formula.png)
 
 f(x) is the function that determines how the radius of the solid we're looking at changes as we move along its height. What formula does this volume formula remind you of?
 
@@ -25,15 +25,10 @@ This method of finding the volume is called the disk method, because we're basic
 
 So, we just plug in the function, the bounds, and we can evaluate the volume.
 
-$V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
-$V = \int_{-2}^{2}\pi\left[x^2\right]^2\mathrm{d}x$
-$V = \pi\int_{-2}^{2}x^4\mathrm{d}x$
-$V = \frac{x^5}{5}\left.\right|^2_{-2}$
-$V = \frac{2^5}{5} - \frac{(-2)^5}{5}$
-$V = \frac{64}{5}$
-
-## Example
 ![example](../images/ucsd-si/interview/example.png)
+
+## Problem 1
+![problem1](../images/ucsd-si/interview/problem1.png)
 
 <details>
 <summary><b>Solution</b></summary>
@@ -41,14 +36,13 @@ $V = \frac{64}{5}$
 Let's visualize the solid created first.
 
 <iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
+
+Now, we can plug in the equation into the formula and evaluate.
+
+![solution1](../images/ucsd-si/interview/solution1.png)
+
 </details>
 
 
-## Problem 1
-![example](../images/ucsd-si/interview/problem1.png)
-Work through
 ## Problem 2
 ![example](../images/ucsd-si/interview/problem2.png)
-
-## Problem 3
-![example](../images/ucsd-si/interview/problem3.png)
