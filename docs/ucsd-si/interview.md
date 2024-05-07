@@ -2,7 +2,7 @@
 
 Welcome to Week 2 of Math 20B SI sessions! Today we'll be covering solids of revolution.
 
-## What is a solid 
+## Background
 <details>
   <summary>Click me</summary>
   
@@ -19,3 +19,11 @@ Welcome to Week 2 of Math 20B SI sessions! Today we'll be covering solids of rev
   }
   ```
 </details>
+
+## Example
+![example](../images/ucsd-si/interview/example.png)
+## Problem 1
+
+## Problem 2
+
+## Problem 3
