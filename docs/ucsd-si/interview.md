@@ -27,7 +27,7 @@ So, we just plug in the function, the bounds, and we can evaluate the volume.
 $V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
 $V = \int_{-2}^{2}\pi\left[x^2]^2\mathrm{d}x$
 $V = \pi\int_{-2}^{2}x^4\mathrm{d}x$
-$V = \frac{x^5}{5}\left.\right|^2_{-2}$
+$V = \frac{x^5}{5}|^2_{-2}$
 $V = \frac{2^5}{5} - \frac{(-2)^5}{5}$
 $V = \frac{64}{5}$
 
