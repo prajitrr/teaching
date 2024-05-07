@@ -6,10 +6,8 @@ This webpage will always be available to you, so if you come in late or have to 
 
 You can submit anonymous questions to me any time during the SI session using the link [here](https://forms.gle/DP6pPRdmFoGrqPk88). Or, feel free to unmute yourself and ask questions or type them in the chat at any time!
 
-## Mini-Review: Integration
-
 ## Mini-Review: Solids of Revolution
-A solid of revolution is any 3-dimensional solid created by revolving a 2-dimensional plane figure about a line in the plane. Let's visualize one, specifically f(x)=x<sup>2<\sup>!
+A solid of revolution is any 3-dimensional solid created by revolving a 2-dimensional plane figure about a line in the plane. Let's visualize one, specifically f(x)=x<sup>2
 
 <iframe src="https://www.geogebra.org/classic/v5c6n7rs" style="width: 900px; height: 600px; border: 0px"></iframe>
 
@@ -35,10 +33,11 @@ So, we just plug in the function, the bounds, and we can evaluate the volume.
 
 Let's visualize the solid created first.
 
-<iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
+<iframe src="https://www.geogebra.org/classic/yxeparjj" style="width: 900px; height: 600px; border: 0px"></iframe>
 <br>
 <br>
-Now, we can plug in the equation into the formula and evaluate.
+Now, we can plug in the equation into the formula and evaluate it.
+<br>
 <br>
 <img src="../images/ucsd-si/interview/solution1.png" alt="solution1">
 
@@ -56,7 +55,8 @@ Let's visualize the problem.
 <iframe src="https://www.geogebra.org/classic/jyzdxp7c" style="width: 900px; height: 600px; border: 0px"></iframe>
 <br>
 <br>
-We can derive an equation to use after careful thought and evaluate 
+We can derive an equation to use after careful thought and evaluate it.
+<br>
 <br>
 <img src="../images/ucsd-si/interview/solution2.png" alt="solution1">
 
