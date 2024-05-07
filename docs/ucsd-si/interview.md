@@ -14,7 +14,7 @@ A solid of revolution is any 3-dimensional solid created by revolving a 2-dimens
 [Here](https://www.geogebra.org/classic/v5c6n7rs) is a link to the visual. You can drag the slider of the angle and pan the camera to visualize the full graph.
 
 We're interested in finding the volume of a solid of revolution. The general formula for this volume is listed below.  
-
+$V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
 f(x) is 
 <details>
   <summary>Click me</summary>
