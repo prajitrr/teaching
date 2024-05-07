@@ -1,10 +1,16 @@
 <details>
-  <summary>title of the content (*not* support **markdown** syntax ~~hmm~~)</summary>
-  content body (support **markdown** syntax ~~hmm~~)
-  ```json
-  {
-    support: "codeblock to"
-  }
-  ​```
+  <summary>Click me</summary>
   
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
