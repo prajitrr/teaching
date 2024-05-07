@@ -11,11 +11,19 @@ You can submit anonymous questions to me any time during the SI session using th
 ## Mini-Review: Solids of Revolution
 A solid of revolution is any 3-dimensional solid created by revolving a 2-dimensional plane figure about a line in the plane. Let's visualize one, specifically $f(x)=x^2$!
 
+<iframe src="https://www.geogebra.org/classic/v5c6n7rs" style="width: 500px; height: 130px; border: 0px"></iframe>
+
 [Here](https://www.geogebra.org/classic/v5c6n7rs) is a link to the visual. You can drag the slider of the angle and pan the camera to visualize the full graph.
 
 We're interested in finding the volume of a solid of revolution. The general formula for this volume is listed below.  
+
 $V = \int_a^b\pi\left[f(x)\right]^2\mathrm{d}x$
-f(x) is 
+
+$f(x)$ is the function that determines how the radius of the solid we're looking at changes as we move along its height. What formula does this volume formula remind you of?
+
+This method of finding the volume is called the disk method, because we're basically adding up a bunch of disks that make up the volume of the entire solid.
+
+So, we just plug in the 
 <details>
   <summary>Click me</summary>
   
