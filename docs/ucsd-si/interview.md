@@ -23,7 +23,10 @@ Welcome to Week 2 of Math 20B SI sessions! Today we'll be covering solids of rev
 ## Example
 ![example](../images/ucsd-si/interview/example.png)
 ## Problem 1
+![example](../images/ucsd-si/interview/problem1.png)
 
 ## Problem 2
+![example](../images/ucsd-si/interview/problem2.png)
 
 ## Problem 3
+![example](../images/ucsd-si/interview/problem3.png)
