@@ -1,5 +1,8 @@
+# Math 20B Supplemental Instruction Week 2
 
+Welcome to Week 2 of Math 20B SI sessions! Today we'll be covering solids of revolution.
 
+## What is a solid 
 <details>
   <summary>Click me</summary>
   
