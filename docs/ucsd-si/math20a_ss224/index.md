@@ -10,7 +10,7 @@ Welcome to the course SI page for MATH 20A for SS2 2024! I'll be posting lecture
 
 ### SI Sessions
 
-- [SI Session 1]()
+- [SI Session 1](https://prajitrr.github.io/teaching/ucsd-si/math20a_ss224/sisession1)
 
 ## Week 2
 
