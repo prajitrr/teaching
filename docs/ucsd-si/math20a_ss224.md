@@ -4,7 +4,7 @@ Welcome to the course SI page for MATH 20A! I'll be posting lecture notes as wel
 
 ## Week 1
 
-- [Lecture 1]
+- [Lecture 1]()
 
 ## Week 2
 
