@@ -34,4 +34,5 @@ The last rule is often called the change of base rule.
 1. How can we derive the change of base rule? Hint: consider the expression $\log_a x = y$, which implies that $x = a^y$.
 2. Why does the natural log function’s steepness decrease as we move rightwards along the x-axis?
 3. Why does $\sin^2(x) + \cos^2(x) = 1$, intuitively?
-4. Can you state two other trig functions that sum to a constant value?
+<iframe src="https://www.desmos.com/calculator/yiiietlssb" style="width: 900px; height: 600px; border: 0px"></iframe>
+5. Can you state two other trig functions that sum to a constant value?
