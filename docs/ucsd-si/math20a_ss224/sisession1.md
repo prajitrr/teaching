@@ -4,10 +4,8 @@ Welcome to Session 1! We'll be going over some material from precalculus that wi
 
 # Exponentials
 ```math
-\begin{enumerate}
-\item{a^{(x+y)} = a^xa^y}
-\item{a^{(x-y)} = \frac{a^x}{a^y}}
-\end{enumerate}
+a^{(x+y)} = a^xa^y
+a^{(x-y)} = \frac{a^x}{a^y}
 ```
 
 # Logarithms
